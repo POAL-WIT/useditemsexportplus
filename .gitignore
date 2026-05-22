@@ -1,0 +1,22 @@
+# Dependencies
+vendor/
+node_modules/
+
+# Build artifacts
+dist/
+*.min.*
+*.mo
+
+# Tooling
+.gh_token
+var/
+
+# IDE / editors
+/.vscode/
+/.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
