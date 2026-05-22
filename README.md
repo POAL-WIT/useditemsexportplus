@@ -79,4 +79,4 @@ Public License v3 and is distributed under the same terms. See
 
 ## Maintainer
 
-Alessandro Paoli — Würth-IT Italy.
+Alessandro Paoli
