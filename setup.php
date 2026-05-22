@@ -68,7 +68,7 @@ function plugin_version_useditemsexportplus()
         'version'      => PLUGIN_USEDITEMSEXPORTPLUS_VERSION,
         'oldname'      => 'useditemsexport',
         'license'      => 'GPLv3+',
-        'author'       => 'Alessandro Paoli | Wuerth-IT Italy',
+        'author'       => 'Alessandro Paoli',
         'homepage'     => 'https://www.neteye-blog.com/',
         'requirements' => [
             'glpi' => [
